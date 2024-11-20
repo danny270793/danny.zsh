@@ -25,7 +25,7 @@ ZSH_THEME="danny.zsh"
 
 ## Example
 
-![Terminal example](https://github.com/danny270793/danny.szh.git/blob/master/images/example001.png)
+![Terminal example](https://github.com/danny270793/danny.zsh/blob/main/images/example001.png)
 
 ## Follow me
 
