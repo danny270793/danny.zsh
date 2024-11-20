@@ -13,8 +13,16 @@ A oh-my-zsh theme fork from [agnosterzak-ohmyzsh-theme](https://github.com/zakaz
 - Install [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 - Download theme
 
+By SSH
+
 ```bash
-git clone https://github.com/danny270793/danny.szh.git ~/.oh-my-zsh/custom/themes/danny.szh
+git clone git@github.com:danny270793/danny.zsh.git ~/.oh-my-zsh/custom/themes/danny.szh
+```
+
+Or by HTTP
+
+```bash
+git clone https://github.com/danny270793/danny.zsh.git ~/.oh-my-zsh/custom/themes/danny.szh
 ```
 
 - Configure the theme in your **~/.zshrc** file
