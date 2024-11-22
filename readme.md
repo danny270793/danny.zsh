@@ -35,6 +35,22 @@ ZSH_THEME="danny.zsh"
 
 ![Terminal example](https://github.com/danny270793/danny.zsh/blob/main/images/example001.png)
 
+Show when are connected to battery or not
+
+Battery | Plugged
+:-|-:
+![Terminal example](https://github.com/danny270793/danny.zsh/blob/main/images/from-battery.png) | ![Terminal example](https://github.com/danny270793/danny.zsh/blob/main/images/from-power-supply.png)
+
+See if there status output `$?` form the last command
+
+![Terminal example](https://github.com/danny270793/danny.zsh/blob/main/images/last-command-error.png)
+
+Hide git line when is not a git repo
+
+Git repo | Non git repo
+:-|-:
+![Terminal example](https://github.com/danny270793/danny.zsh/blob/main/images/git-path.png) | ![Terminal example](https://github.com/danny270793/danny.zsh/blob/main/images/non-git-path.png)
+
 ## Follow me
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
